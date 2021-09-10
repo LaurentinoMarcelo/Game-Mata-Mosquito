@@ -1,0 +1,28 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mata mosca</title>
+    <script src="jogo.js"></script>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body onresize="ajusteTamanhoTela()">
+    
+    <div class="painel">
+        <div class="vidas">
+            <img src="imagens/coracao_vazio.png" alt="">
+            <img src="imagens/coracao_cheio.png" alt="">
+            <img src="imagens/coracao_cheio.png" alt="">
+        </div>
+
+        <div class="cronometro">Tempo Restante:</div>
+    </div>
+
+    <script>
+        setInterval(function(){
+            posicaoRandomica();
+        }, 1000);
+        
+    </script>
+</body>
+</html>
