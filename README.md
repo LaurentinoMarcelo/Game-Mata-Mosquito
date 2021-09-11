@@ -39,7 +39,7 @@ timing...
   <h3>Seleção Dificuldade</h3>
   <img title="Seleção Dificuldade" src="imagens/tela_selecao_dificuldade.png" width="700" height="500"/>
   
-  <h3>Jogando</h3>
+  <h3>Hora de jogar</h3>
   
   -E como o jogo funciona, basicamente durante um periodo de tempo de certa de 10 segundo o jogador terá que matar todas os mosquitos que aparecer na tela de forma randomica alterando
   também não só a posição do mosquito mas também o tamanho do mesmo. Caso não consiga ele perderá seus pontos de vidas representado por 3 corações no canto inferior da tela.
