@@ -27,10 +27,10 @@ timing...
 
 -Basicamente o projeto consiste de três páginas html sendo uma responsável pelo jogo, uma para indicar que o jogador ganhou e outra para indicar que o jogador perdeu. 
 
--Támbem na tela principal do jogo também existe a possibilidade de alterar o nivel de dificuldade, onde basicamente será alterado no código o tempo em que o mosquito aparecera.
-  - No nivel Normal a velocidade que aparecerá a cada 1500 milisegundos.
-  - No nivel Dificil a velocidade que aparecerá a cada 1000 milisegundos.
-  - No nivel Chuck Norris a velocidade que aparecerá a cada 750 milisegundos.
+-Também na tela principal existe a possibilidade de alterar o nivel de dificuldade, onde basicamente será alterado no código o tempo em que o mosquito levará para aparecer.
+  - No nivel Normal a velocidade que aparecerá será de 1500 milisegundos.
+  - No nivel Dificil a velocidade que aparecerá será de 1000 milisegundos.
+  - No nivel Chuck Norris a velocidade que aparecerá será de 750 milisegundos.
 
   Página seleção de dificuldade:
   
@@ -41,9 +41,9 @@ timing...
   
   <h3>Hora de jogar</h3>
   
-  -E como o jogo funciona, basicamente durante um periodo de tempo de certa de 10 segundo o jogador terá que matar todas os mosquitos que aparecer na tela de forma randomica alterando
+  -E como o jogo funciona, basicamente durante um periodo de 10 segundo o jogador terá que matar todas os mosquitos que apareceram na tela de forma randômica alterando
   também não só a posição do mosquito mas também o tamanho do mesmo. Caso não consiga ele perderá seus pontos de vidas representado por 3 corações no canto inferior da tela.
-  Caso ele sobreviva os tempo de 10 segundo mantendo seus pontos de vida o jogador irá vencer.
+  Caso ele sobreviva os tempo de 10 segundo mantendo seus pontos de vida o jogador vencerá.
   
   <img title="Seleção Dificuldade" src="gif/jogando.gif" width="700" height="500"/>
   ---
