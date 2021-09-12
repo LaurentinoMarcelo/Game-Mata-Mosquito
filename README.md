@@ -12,7 +12,7 @@
 </p>
 
 <h4 align="center"> 
-	 Calculadora 🕹️ Finalizado
+	 Game Mata Mosquito 🕹️ Finalizado
 </h4>
 
 ## 🕹️ Sobre o projeto
