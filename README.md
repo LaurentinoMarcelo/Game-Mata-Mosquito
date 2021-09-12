@@ -1,5 +1,5 @@
 # Game Mata Mosquito
-## Jogo criado utilizando html, css, e javaScript
+## Jogo criado utilizando html, css e javaScript
 <h1 align="center">
   <img title="Mata Mosquito" src="imagens/logo.png" />
 </h1>
