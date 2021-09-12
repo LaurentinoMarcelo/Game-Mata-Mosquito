@@ -17,7 +17,7 @@
 
 ## 🕹️ Sobre o projeto
 
-🕹️ O jogo mata mosquito foi criado com javaScript sendo um projeto desenvolvido durante o curso de Desenvolvimento Web ministrado pelo professor Jamilton Damasceno
+🕹️ O jogo mata mosquito foi criado com javaScript sendo um projeto desenvolvido durante o curso de Desenvolvimento Web ministrado pelo professor Jorge Sant' Ana.
 
 Esse projeto foi desenvolvido para o estudo de implementação de conceitos básicos e introdutórios em javaScript, abordando temas como BOM com windows, screen, location, 
 timing...
@@ -51,7 +51,7 @@ timing...
 ## 🎨Layout
 
 O layout foi fornecido pelo professor 
-[Jamilton Damasceno](https://www.linkedin.com/in/jamiltondamasceno/).
+[Jorge Sant' Ana](https://www.linkedin.com/in/jorgesantanabr/).
 
 
 ### 🛠Tecnologias
